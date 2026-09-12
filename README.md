@@ -7,9 +7,9 @@
 
 <br />
 
-![Status](https://img.shields.io/badge/status-em%20constru%C3%A7%C3%A3o-16A66A?style=for-the-badge)
-![Made in Brazil](https://img.shields.io/badge/feito%20no-Brasil-16A66A?style=for-the-badge)
-![Open Source Friendly](https://img.shields.io/badge/open%20source-friendly-16A66A?style=for-the-badge)
+![Status](https://img.shields.io/badge/status-em%20constru%C3%A7%C3%A3o-2563EB?style=for-the-badge)
+![Made in Brazil](https://img.shields.io/badge/feito%20no-Brasil-2563EB?style=for-the-badge)
+![Open Source Friendly](https://img.shields.io/badge/open%20source-friendly-2563EB?style=for-the-badge)
 
 </div>
 
@@ -39,8 +39,9 @@ segurança, infraestrutura e evolução contínua de cada um deles.
         multi-tenant desde o primeiro dia.
       </p>
       <p>
-        <img src="https://img.shields.io/badge/status-em%20desenvolvimento-16A66A?style=flat-square" />
+        <img src="https://img.shields.io/badge/status-em%20desenvolvimento-2563EB?style=flat-square" />
       </p>
+      <p>🔗 <a href="https://fawlife.com.br">fawlife.com.br</a></p>
       <ul>
         <li>Arquitetura de microsserviços (API Gateway + serviços por domínio)</li>
         <li>Autenticação e onboarding completo (perfil profissional + loja/clínica)</li>
@@ -56,6 +57,7 @@ segurança, infraestrutura e evolução contínua de cada um deles.
       <p>
         <img src="https://img.shields.io/badge/status-planejamento-6B7771?style=flat-square" />
       </p>
+      <p>🔗 <a href="https://tivvo.com.br">tivvo.com.br</a></p>
       <ul>
         <li>Frente de caixa (PDV) rápida e confiável</li>
         <li>Controle de vendas e fechamento de caixa</li>
@@ -110,7 +112,6 @@ conversam entre si.
 
 <div align="center">
 
-**CodingPlus** — construindo com cuidado, um produto de cada vez. 💚
+**CodingPlus** — construindo com cuidado, um produto de cada vez. 💙
 
 </div>
-<img width="1280" height="320" alt="codingplus-banner" src="https://github.com/user-attachments/assets/3cb0b364-bb1b-4d49-aa6f-678fd1ebb155" />
