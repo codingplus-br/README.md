@@ -1,0 +1,38 @@
+<svg width="1280" height="320" viewBox="0 0 1280 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B1220"/>
+      <stop offset="55%" stop-color="#122A52"/>
+      <stop offset="100%" stop-color="#2563EB"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2563EB"/>
+      <stop offset="100%" stop-color="#7DD3FC"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="320" rx="28" fill="url(#bg)"/>
+
+  <circle cx="1120" cy="60" r="140" fill="#2563EB" opacity="0.12"/>
+  <circle cx="1220" cy="260" r="90" fill="#2563EB" opacity="0.10"/>
+  <circle cx="90" cy="270" r="70" fill="#2563EB" opacity="0.08"/>
+
+  <rect x="80" y="86" width="14" height="14" rx="4" fill="url(#accent)"/>
+  <rect x="80" y="108" width="14" height="70" rx="4" fill="url(#accent)" opacity="0.55"/>
+
+  <text x="112" y="150" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="58" font-weight="700" fill="#FFFFFF">
+    Coding<tspan fill="#7DD3FC">Plus</tspan>
+  </text>
+
+  <text x="114" y="192" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="400" fill="#C7DDFB">
+    Software house • produtos que apoiam quem trabalha
+  </text>
+
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="600">
+    <rect x="114" y="222" width="128" height="34" rx="17" fill="#FFFFFF" opacity="0.08"/>
+    <text x="132" y="244" fill="#FFFFFF">🩺 Fawlife</text>
+
+    <rect x="256" y="222" width="118" height="34" rx="17" fill="#FFFFFF" opacity="0.08"/>
+    <text x="274" y="244" fill="#FFFFFF">🛒 Tivvo</text>
+  </g>
+</svg>
